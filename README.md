@@ -43,7 +43,7 @@ cd backend
 
 **3. Run Docker Compose command**
 
-This will start a local development server on your PC. The server is running on `localhsot:8080`
+This will start a local development server on your PC. The server is running on `localhost:8080`
 ```sh
 docker-compose up
 ```
